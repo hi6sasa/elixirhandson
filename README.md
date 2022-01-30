@@ -1,4 +1,5 @@
 #1221ii Deom
+[![CircleCI](https://circleci.com/gh/hi6sasa/elixirhandson/tree/main.svg?style=svg)](https://circleci.com/gh/hi6sasa/elixirhandson/tree/main)
 
 To start your Phoenix server:
 
