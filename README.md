@@ -1,4 +1,4 @@
-# Demo
+# Deom
 
 To start your Phoenix server:
 
